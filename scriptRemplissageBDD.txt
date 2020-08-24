@@ -176,6 +176,16 @@ INSERT INTO `Film_Realisateurs` (`film_id`, `realisateurs_id`) VALUES
 
 INSERT INTO `cinema` (`adresse`, `nom`, `nombre_salles`, `prixht`, `sup3d`) VALUES
 ('Esplanade Charles de Gaulle 35000 Rennes', 'Gaumont Rennes', '13', '10', '2'),
-('Place du Colombier 35000 Rennes', 'Cinéville Colombier', '6', '10', '2'),
-("29, rue d'Antrain 35000 Rennes", 'Cinéma Arvor', '2', '10', '2'),
-('1, rue Saint-Helier 35000 Rennes', 'Cine-TNB', '2', '10', '2');
+('Place du Colombier 35000 Rennes', 'Cinéville Colombier - Rennes', '6', '10', '2'),
+("29, rue d'Antrain 35000 Rennes", 'Cinéma Arvor - Rennes', '2', '10', '2'),
+('1, rue Saint-Helier 35000 Rennes', 'Cine-TNB - Rennes', '2', '10', '2'),
+('7, place de la Rotonde 75001 Paris', ' UGC Ciné Cité Les Halles - Paris', '27', '12', '2'),
+('2, cour Saint-Emilion 75012 Paris', 'UGC Ciné Cité Bercy - Paris', '18', '10', '2'),
+('128-162 avenue de France 75013 Paris', 'MK2 Bibliothèque - Paris', '20', '10', '2'),
+('3, rue d'Odessa 75014 Paris', 'Gaumont Parnasse - Paris', '15', '10', '2'),
+('12, place du Commerce 44000 Nantes', 'Gaumont Nantes multiplexe', '12', '10', '2'),
+('1, rue Marcel-Guillaume 13100 Aix-en-Provence', 'Le Cézanne - Aix-en-Provence', '9', '10', '2'),
+('79, rue de la République 69002 Lyon', 'Pathé Lyon - Bellecour', '10', '10', '2'),
+('Cité internationale, 80, quai Charles-de-Gaulle 69006 Lyon', 'UGC Ciné Cité Internationale - Lyon', '14', '10', '2'),
+('Centre commercial La Part-Dieu Niveau 1 et 3 69003 Lyon', 'UGC Lyon Part Dieu', '14', '10', '2'),
+('Rue Aristide BoucicautBP 30317 56000 Vannes', 'Cinéville Parc Lann - Vannes', '9', '10', '2');
