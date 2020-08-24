@@ -182,7 +182,7 @@ INSERT INTO `cinema` (`adresse`, `nom`, `nombre_salles`, `prixht`, `sup3d`) VALU
 ('7, place de la Rotonde 75001 Paris', ' UGC Ciné Cité Les Halles - Paris', '27', '12', '2'),
 ('2, cour Saint-Emilion 75012 Paris', 'UGC Ciné Cité Bercy - Paris', '18', '10', '2'),
 ('128-162 avenue de France 75013 Paris', 'MK2 Bibliothèque - Paris', '20', '10', '2'),
-('3, rue d'Odessa 75014 Paris', 'Gaumont Parnasse - Paris', '15', '10', '2'),
+("3, rue d'Odessa 75014 Paris", 'Gaumont Parnasse - Paris', '15', '10', '2'),
 ('12, place du Commerce 44000 Nantes', 'Gaumont Nantes multiplexe', '12', '10', '2'),
 ('1, rue Marcel-Guillaume 13100 Aix-en-Provence', 'Le Cézanne - Aix-en-Provence', '9', '10', '2'),
 ('79, rue de la République 69002 Lyon', 'Pathé Lyon - Bellecour', '10', '10', '2'),
