@@ -252,3 +252,6 @@ INSERT INTO `seance` (`horaire`, `places_sans_reservation`, `sup3d`, `film_id`, 
 
 ('2020-09-02 10:00', '100', b'0', '25', '26'),
 ('2020-09-02 10:00', '120', b'1', '26', '26');
+
+INSERT INTO `utilisateur` (`anniversaire`, `nom`, `prenom`, `password`, `pseudo`) VALUES
+('1992-12-29', 'Aubrée', 'Antoine', 'pass', 'antoine');
